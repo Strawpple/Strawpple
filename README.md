@@ -1,6 +1,11 @@
 # 👋 Hello, I'm Adrian Kim D. Requillo
 
+## 📊 GitHub Activity
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strawpple&theme=react-dark)
+
 
 ---
 
@@ -21,12 +26,6 @@
 
 ### ☁️ Cloud Services
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strawpple&theme=react-dark)
 
 ---
 
