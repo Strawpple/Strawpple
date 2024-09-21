@@ -2,10 +2,9 @@
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strawpple&theme=react-dark)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
