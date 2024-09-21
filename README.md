@@ -1,6 +1,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true)](https://git.io/streak-stats)
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/your-username/strawpple/blob/output/github-contribution-grid-snake.svg)
 
 
 ### 🛠️ Technologies & Tools I Use
