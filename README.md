@@ -5,6 +5,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strawpple&theme=react-dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strawpple&layout=compact&theme=dark&hide_border=true)](https://github.com/strawpple)
+
 
 ---
 
