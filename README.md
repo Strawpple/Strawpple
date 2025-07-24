@@ -1,67 +1,93 @@
-# 👋 Hello, I'm Adrian Kim D. Requillo
+# 👨‍💻 Adrian Kim D. Requillo
 
-I'm a full-stack web and software developer based in Davao City, Philippines. I work at the MIS Office of Ateneo de Davao University where I build internal systems, automate workflows, and ensure data-driven decision-making using modern tools like **Laravel**, **React**, and **MSSQL**.
-
----
-
-## 📈 GitHub Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=strawpple&theme=react-dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawpple&layout=compact&theme=dark&hide_border=true)](https://github.com/strawpple)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=strawpple&show_icons=true&theme=dark&hide_border=true)](https://github.com/strawpple)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=strawpple&theme=darkhub&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- Uncomment below if you set up the snake GitHub Action -->
-<!-- ![GitHub Contribution Snake](https://raw.githubusercontent.com/strawpple/strawpple/output/github-contribution-grid-snake.svg) -->
+**Full-Stack Web & Software Developer**  
+📍 Davao City, Philippines | 🏢 MIS Office, Ateneo de Davao University  
+🔧 Laravel • React • MSSQL • IIS • Active Directory • API Integrations
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧑‍🎓 Education
 
-### 🌐 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+🎓 **Bachelor of Science in Information Technology**  
+Ateneo de Davao University
 
-### 🗄️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🖥️ Infrastructure & Tools
-![IIS](https://img.shields.io/badge/IIS-0033CC?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### ☁️ Cloud Platforms
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+🎓 **Master of Science in Information Technology (Ongoing)**  
+Ateneo de Davao University
 
 ---
 
-## 📌 Featured Projects
+## 🚀 About Me
 
-### 🧾 [Seminar Evaluation System](https://github.com/strawpple/seminar-evaluation)
-Internal Laravel + React app for handling seminar feedback and automated reports.
+I'm a full-stack developer with a passion for building secure, scalable, and maintainable systems. I currently serve at the **MIS Office of Ateneo de Davao University**, where I lead the development of enterprise-level solutions that power the university’s digital operations — from enrollment to HR, payment systems, and identity management.
 
-### 📅 [Beadle Dashboard](https://github.com/strawpple/beadle-dashboard)
-A React-based dashboard to assist class beadles in managing attendance logs and professor-student communication.
-
-
+I specialize in designing full-cycle software systems with modern stacks like **Laravel**, **React**, and **MSSQL**, combined with experience in **API integration**, **LDAP**, and **IIS-hosted** environments.
 
 ---
 
-## 📚 Currently Exploring
+## 🛠️ Core Competencies
 
-- 🌐 GraphQL and Laravel Lighthouse for API optimization
-- 🧪 Playwright for end-to-end testing
-- 🧠 Improving React performance with memoization and code splitting
+- **Full-Stack Development**: Laravel, React, MSSQL, Tailwind, RESTful APIs  
+- **Infrastructure & Identity**: IIS, Active Directory (LDAP), SFTP, Windows Server  
+- **Cloud & Services**: Firebase, Microsoft Azure (basics), DNS & domain configuration  
+- **DevOps & Automation**: Shell scripting, cron jobs, database backups  
+- **Security & Confidentiality**: Data privacy, authentication flows, encryption  
+- **Team Collaboration**: Agile methodologies, Jira, Git, documentation, stakeholder coordination
+
+---
+
+## 🏗️ Key Systems & Platforms Built
+
+All systems listed below were **designed and built from scratch** under Ateneo de Davao University's internal IT infrastructure.  
+They are **confidential in nature** and not open to the public repository space.
+
+| System | Description |
+|--------|-------------|
+| 🎓 [Enrollment System](https://enrollment.addu.edu.ph) | Online enrollment platform for undergraduate, graduate, and law students. |
+| 🏢 [Centralized Office Hub](https://account-uan.addu.edu.ph) | Web-based platform for inter-office transactions — including HR, Admissions, and more. |
+| 📅 [Booking Management System](https://booking.addu.edu.ph) | Room and event scheduling system for university departments. |
+| 🧾 Online Payment System | Secure portal for tuition and miscellaneous fee payments. ([payments.addu.edu.ph](https://payments.addu.edu.ph)) |
+| 👥 Active Directory Account Provisioning | Internal LDAP-based platform to generate and sync AdDUNet credentials. |
+| 🧑‍🏫 [Beadle System](https://beadle.addu.edu.ph) | Attendance tracking, professor-student communication, and class beadle coordination. |
+| ⚖️ [Law School System](https://lawsys.addu.edu.ph) | Specialized portal for ADDU College of Law, covering academic, registration, and admin features. |
+| 📶 RFID Attendance API | Integrated API handling attendance from RFID devices to internal backend systems. |
+
+> 🔐 *All projects are proprietary to Ateneo de Davao University and are under strict confidentiality policies.*
+
+---
+
+## 🧠 Currently Exploring
+
+- 🔗 GraphQL & Laravel Lighthouse  
+- 🧪 Playwright for automated testing  
+- ⚛️ React performance optimization  
+- 🔐 Security audits and authentication hardening
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=strawpple&theme=react-dark" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=strawpple&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=strawpple&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strawpple&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=strawpple&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strawpple)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-kim-d-requillo-982a18156/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strawpple)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-kim-d-requillo-982a18156/)
+
+---
