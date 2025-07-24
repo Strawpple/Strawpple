@@ -2,65 +2,66 @@
 
 **Full-Stack Web & Software Developer**  
 📍 Davao City, Philippines | 🏢 MIS Office, Ateneo de Davao University  
-🔧 Laravel • React • MSSQL • IIS • Active Directory • API Integrations
+🔧 Laravel • React • MSSQL • IIS • Active Directory • Automation • API Integration
 
 ---
 
-## 🧑‍🎓 Education
+## 🎓 Education
 
-🎓 **Bachelor of Science in Information Technology**  
-Ateneo de Davao University
+- 🎓 **Bachelor of Science in Information Technology**  
+  Ateneo de Davao University
 
-🎓 **Master of Science in Information Technology (Ongoing)**  
-Ateneo de Davao University
+- 🎓 **Master of Science in Information Technology (Ongoing)**  
+  Ateneo de Davao University
 
 ---
 
 ## 🚀 About Me
 
-I'm a full-stack developer with a passion for building secure, scalable, and maintainable systems. I currently serve at the **MIS Office of Ateneo de Davao University**, where I lead the development of enterprise-level solutions that power the university’s digital operations — from enrollment to HR, payment systems, and identity management.
+I'm a full-stack developer committed to delivering modern, secure, and efficient digital solutions. I currently work at the **MIS Office of Ateneo de Davao University**, where I lead mission-critical system development from backend logic to frontend interfaces and infrastructure integration.
 
-I specialize in designing full-cycle software systems with modern stacks like **Laravel**, **React**, and **MSSQL**, combined with experience in **API integration**, **LDAP**, and **IIS-hosted** environments.
+My responsibilities span across designing entire systems, API development, database architecture, and automating university processes — including **QR-based attendance tracking**, **LDAP Active Directory provisioning**, and **multi-department platforms**.
 
 ---
 
 ## 🛠️ Core Competencies
 
-- **Full-Stack Development**: Laravel, React, MSSQL, Tailwind, RESTful APIs  
+- **Full-Stack Development**: Laravel, React, MSSQL, Tailwind, REST APIs  
 - **Infrastructure & Identity**: IIS, Active Directory (LDAP), SFTP, Windows Server  
-- **Cloud & Services**: Firebase, Microsoft Azure (basics), DNS & domain configuration  
-- **DevOps & Automation**: Shell scripting, cron jobs, database backups  
-- **Security & Confidentiality**: Data privacy, authentication flows, encryption  
-- **Team Collaboration**: Agile methodologies, Jira, Git, documentation, stakeholder coordination
+- **Automation & Tracking**: QR code attendance, RFID integration, background workers  
+- **Cloud & Tools**: Firebase, Postman, Git, cron jobs, security audits  
+- **Development Workflow**: Agile, versioning, stakeholder coordination, API testing  
+- **Security & Privacy**: Authentication systems, secure data handling, internal-only protocols  
 
 ---
 
-## 🏗️ Key Systems & Platforms Built
+## 🏗️ Key Systems & Platforms
 
-All systems listed below were **designed and built from scratch** under Ateneo de Davao University's internal IT infrastructure.  
-They are **confidential in nature** and not open to the public repository space.
+All systems below were **built from the ground up** and are hosted internally by **Ateneo de Davao University**. These systems are **confidential** and intended solely for institutional operations.
 
 | System | Description |
 |--------|-------------|
-| 🎓 [Enrollment System](https://enrollment.addu.edu.ph) | Online enrollment platform for undergraduate, graduate, and law students. |
-| 🏢 [Centralized Office Hub](https://account-uan.addu.edu.ph) | Web-based platform for inter-office transactions — including HR, Admissions, and more. |
-| 📅 [Booking Management System](https://booking.addu.edu.ph) | Room and event scheduling system for university departments. |
-| 🧾 Online Payment System | Secure portal for tuition and miscellaneous fee payments. ([payments.addu.edu.ph](https://payments.addu.edu.ph)) |
-| 👥 Active Directory Account Provisioning | Internal LDAP-based platform to generate and sync AdDUNet credentials. |
-| 🧑‍🏫 [Beadle System](https://beadle.addu.edu.ph) | Attendance tracking, professor-student communication, and class beadle coordination. |
-| ⚖️ [Law School System](https://lawsys.addu.edu.ph) | Specialized portal for ADDU College of Law, covering academic, registration, and admin features. |
-| 📶 RFID Attendance API | Integrated API handling attendance from RFID devices to internal backend systems. |
+| 🎓 [Enrollment System](https://enrollment.addu.edu.ph) | Web-based platform for undergraduate, graduate, and law student enrollment. |
+| 🏢 [Office Management Hub](https://account-uan.addu.edu.ph) | Centralized system for office-level operations across HR, Admissions, and more. |
+| 📅 [Booking System](https://booking.addu.edu.ph) | Event and facility scheduling platform for university staff and faculty. |
+| 💳 [Online Payment Portal](https://payments.addu.edu.ph) | Secure online payment system for tuition and other university fees. |
+| 👥 LDAP Account Provisioning | Active Directory credential creation via internal web interface with LDAP sync. |
+| 🧑‍🏫 [Beadle System](https://beadle.addu.edu.ph) | Interface for class beadles to manage attendance and faculty interaction. |
+| ⚖️ [Law School System](https://lawsys.addu.edu.ph) | System designed for ADDU Law School’s academic and administrative processes. |
+| 📶 RFID Attendance API | Backend API managing automated RFID log-ins for presence verification. |
+| 📲 **QR Code Seminar Attendance Automation** | Fully automated attendance tracking for HR-managed trainings and seminars using QR codes. |
+| 🚀 [Rise.addu.edu.ph](https://rise.addu.edu.ph) | Internal employee development and training program platform under the HR division. |
 
-> 🔐 *All projects are proprietary to Ateneo de Davao University and are under strict confidentiality policies.*
+> 🔐 *All listed platforms are property of Ateneo de Davao University and governed by institutional confidentiality agreements.*
 
 ---
 
 ## 🧠 Currently Exploring
 
-- 🔗 GraphQL & Laravel Lighthouse  
-- 🧪 Playwright for automated testing  
-- ⚛️ React performance optimization  
-- 🔐 Security audits and authentication hardening
+- 🧬 GraphQL with Laravel Lighthouse  
+- 🧪 E2E testing with Playwright  
+- ⚛️ React memoization & code splitting  
+- 🔐 Authentication flows and access control logic
 
 ---
 
@@ -83,11 +84,18 @@ They are **confidential in nature** and not open to the public repository space.
   <img src="https://github-profile-trophy.vercel.app/?username=strawpple&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+<!-- Optional: Uncomment if GitHub Snake is set up -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/strawpple/strawpple/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+-->
+
 ---
 
-## 🔗 Connect With Me
+## 🔗 Let’s Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strawpple)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strawpple)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-kim-d-requillo-982a18156/)
 
 ---
