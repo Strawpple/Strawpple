@@ -1,6 +1,6 @@
 # 👨‍💻 Adrian Kim D. Requillo
 
-**Full-Stack Web & Software Developer**  
+**Senior Full-Stack Engineer | System Architect | SaaS & Automation**  
 📍 Davao City, Philippines   
 🔧 Laravel • React • MSSQL • IIS • Active Directory • Automation • API Integration  
 
