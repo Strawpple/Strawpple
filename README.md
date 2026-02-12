@@ -1,67 +1,55 @@
 # 👨‍💻 Adrian Kim D. Requillo
 
 **Full-Stack Web & Software Developer**  
-📍 Davao City, Philippines | 🏢 MIS Office, Ateneo de Davao University  
-🔧 Laravel • React • MSSQL • IIS • Active Directory • Automation • API Integration
-
----
-
-## 🎓 Education
-
-- 🎓 **Bachelor of Science in Information Technology**  
-  Ateneo de Davao University
-
-- 🎓 **Master of Science in Information Technology (Ongoing)**  
-  Ateneo de Davao University
+📍 Davao City, Philippines   
+🔧 Laravel • React • MSSQL • IIS • Active Directory • Automation • API Integration  
 
 ---
 
 ## 🚀 About Me
 
-I'm a full-stack developer committed to delivering modern, secure, and efficient digital solutions. I currently work at the **MIS Office of Ateneo de Davao University**, where I lead mission-critical system development from backend logic to frontend interfaces and infrastructure integration.
+I am a full-stack developer committed to building **modern, secure, and efficient digital solutions**.  
+During my tenure at **Ateneo de Davao University**, I designed and implemented **mission-critical systems** from backend architecture to frontend interfaces, automating processes and enhancing workflows across HR, student services, and administration.
 
-My responsibilities span across designing entire systems, API development, database architecture, and automating university processes — including **QR-based attendance tracking**, **LDAP Active Directory provisioning**, and **multi-department platforms**.
+I specialize in **end-to-end system development**, **process automation**, and **infrastructure integration**, with a strong focus on delivering measurable results.
+
+---
+
+## 🏗️ Key Systems & My Strengths
+
+| System | Contribution | Strength |
+|--------|-------------|----------|
+|  Full-stack development and automation of student enrollment workflows | Backend & Frontend Architecture, Workflow Automation |
+|  Built HR & admin dashboards, automated notifications and reporting | Data Management, Process Streamlining |
+|  Event booking logic, approval workflows, and calendar integration | System Design, UX for Staff & Faculty |
+|  Integrated banking API securely for fee processing | API Integration, Security & Validation |
+|  Developed QR-based attendance tracking system | Automation, Data Accuracy, Real-Time Reporting |
+|  Automated Active Directory credential creation | Identity Management, Active Directory Integration |
+|  Interface for class beadles to manage attendance and faculty interaction | UX/UI for Staff, Workflow Automation |
+|  Backend API managing automated RFID log-ins | Backend API, Automation & Integration |
+|  Internal employee development & training program | Dashboard Design, Data Visualization |
+
+> ⚡ *Strengths highlight the areas where I made the most impact or excelled while developing each system.*
 
 ---
 
 ## 🛠️ Core Competencies
 
-- **Full-Stack Development**: Laravel, React, MSSQL, Tailwind, REST APIs  
-- **Infrastructure & Identity**: IIS, Active Directory (LDAP), SFTP, Windows Server  
-- **Automation & Tracking**: QR code attendance, RFID integration, background workers  
-- **Cloud & Tools**: Firebase, Postman, Git, cron jobs, security audits  
-- **Development Workflow**: Agile, versioning, stakeholder coordination, API testing  
-- **Security & Privacy**: Authentication systems, secure data handling, internal-only protocols  
-
----
-
-## 🏗️ Key Systems & Platforms
-
-All systems below were **built from the ground up** and are hosted internally by **Ateneo de Davao University**. These systems are **confidential** and intended solely for institutional operations.
-
-| System | Description |
-|--------|-------------|
-| 🎓 [Enrollment System](https://enrollment.addu.edu.ph) | Web-based platform for undergraduate, graduate, and law student enrollment. |
-| 🏢 [Office Management Hub](https://account-uan.addu.edu.ph) | Centralized system for office-level operations across HR, Admissions, and more. |
-| 📅 [Booking System](https://booking.addu.edu.ph) | Event and facility scheduling platform for university staff and faculty. |
-| 💳 [Online Payment Portal](https://payments.addu.edu.ph) | Secure online payment system for tuition and other university fees. |
-| 👥 LDAP Account Provisioning | Active Directory credential creation via internal web interface with LDAP sync. |
-| 🧑‍🏫 [Beadle System](https://beadle.addu.edu.ph) | Interface for class beadles to manage attendance and faculty interaction. |
-| ⚖️ [Law School System](https://lawsys.addu.edu.ph) | System designed for ADDU Law School’s academic and administrative processes. |
-| 📶 RFID Attendance API | Backend API managing automated RFID log-ins for presence verification. |
-| 📲 **QR Code Seminar Attendance Automation** | Fully automated attendance tracking for HR-managed trainings and seminars using QR codes. |
-| 🚀 [Rise.addu.edu.ph](https://rise.addu.edu.ph) | Internal employee development and training program platform under the HR division. |
-
-> 🔐 *All listed platforms are property of Ateneo de Davao University and governed by institutional confidentiality agreements.*
+- **Full-Stack Development:** Laravel, React, MSSQL, Tailwind, REST APIs  
+- **Infrastructure & Identity:** IIS, Active Directory (LDAP), Windows Server, SFTP  
+- **Automation & Tracking:** QR code attendance, RFID integration, background workers  
+- **Cloud & Tools:** Firebase, Postman, Git, cron jobs  
+- **Workflow & Process Improvement:** Streamlined HR/admin processes, internal dashboards  
+- **Security & Privacy:** Authentication systems, secure data handling  
 
 ---
 
 ## 🧠 Currently Exploring
 
-- 🧬 GraphQL with Laravel Lighthouse  
-- 🧪 E2E testing with Playwright  
-- ⚛️ React memoization & code splitting  
-- 🔐 Authentication flows and access control logic
+- GraphQL with Laravel Lighthouse  
+- E2E testing with Playwright  
+- React memoization & code splitting  
+- Authentication flows & access control  
 
 ---
 
@@ -84,18 +72,9 @@ All systems below were **built from the ground up** and are hosted internally by
   <img src="https://github-profile-trophy.vercel.app/?username=strawpple&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
-<!-- Optional: Uncomment if GitHub Snake is set up -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/strawpple/strawpple/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
--->
-
 ---
 
 ## 🔗 Let’s Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/strawpple)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-kim-d-requillo-982a18156/)
-
----
