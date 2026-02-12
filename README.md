@@ -17,8 +17,8 @@ I specialize in **end-to-end system development**, **process automation**, and *
 
 ## 🏗️ Key Systems & My Strengths
 
-| System | Contribution | Strength |
-|--------|-------------|----------|
+| Contribution | Strength |
+|-------------|----------|
 |  Full-stack development and automation of student enrollment workflows | Backend & Frontend Architecture, Workflow Automation |
 |  Built HR & admin dashboards, automated notifications and reporting | Data Management, Process Streamlining |
 |  Event booking logic, approval workflows, and calendar integration | System Design, UX for Staff & Faculty |
